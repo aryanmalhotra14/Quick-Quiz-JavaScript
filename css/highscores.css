@@ -1,0 +1,23 @@
+body{
+  background-image: url("../images/abc.jpg");
+}
+#highScoresList {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 4rem;
+}
+
+.high-score {
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.high-score:hover {
+  transform: scale(1.025);
+}
+@media screen and (max-width: 1500px) {
+  body {
+    background-image: url("../images/abcde.jpg");
+    background-color: black;
+  }
+}
