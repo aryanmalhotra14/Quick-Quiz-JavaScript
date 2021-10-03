@@ -1,6 +1,6 @@
 # Quick-Quiz-JavaScript
 Week 2 assignment for Web I/O Bootcamp  
-Members:  
+Members:
 - Khushi Arora 
 - Mohammad Hasan Lutfy 
 - Aryan Malhotra 
